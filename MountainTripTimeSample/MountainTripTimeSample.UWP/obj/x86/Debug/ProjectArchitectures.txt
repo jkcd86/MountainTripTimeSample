@@ -1,0 +1,1 @@
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample.UWP\MountainTripTimeSample.UWP.csproj;x86

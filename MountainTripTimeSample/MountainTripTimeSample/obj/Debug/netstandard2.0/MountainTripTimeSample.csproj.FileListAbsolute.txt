@@ -1,0 +1,15 @@
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\bin\Debug\netstandard2.0\MountainTripTimeSample.deps.json
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\bin\Debug\netstandard2.0\MountainTripTimeSample.dll
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\MountainTripTimeSample.csprojAssemblyReference.cache
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\Views\PrincipalPage.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\MountainTripTimeSample.AssemblyInfoInputs.cache
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\MountainTripTimeSample.AssemblyInfo.cs
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\bin\Debug\netstandard2.0\ref\MountainTripTimeSample.dll
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\bin\Debug\netstandard2.0\MountainTripTimeSample.pdb
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\MountainTripTimeSample.dll
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\ref\MountainTripTimeSample.dll
+C:\Users\m.valtingojer\Source\Repos\Xamarin\MountainTripTimeSample\MountainTripTimeSample\MountainTripTimeSample\obj\Debug\netstandard2.0\MountainTripTimeSample.pdb
